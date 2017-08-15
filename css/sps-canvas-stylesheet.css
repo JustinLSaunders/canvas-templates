@@ -1,0 +1,396 @@
+/*dark blue*/
+/*pure white*/
+/*grey*/
+/*dark grey*/
+/*green*/
+/*light grey*/
+li {
+  margin-bottom: .25rem; }
+
+html {
+  /*For testing. Consider removing for production*/
+  font-size: 100%; }
+
+body {
+  font-size: 1rem;
+  line-height: 1.5; }
+
+/*Content pane for Canvas*/
+.user_content {
+  /*Syllabus*/
+  /*Course Homepage*/
+  /*Module Overview Page*/
+  /*Getting Acquainted Discussion Forum*/
+  /*Resources*/
+  /*About the Faculty*/
+  /*Technology Prompts*/
+  /*Class Session Information and Resources*/
+  /*Class Session Storyboard*/
+  /*Panopto Insturctions*/ }
+  .user_content h2 ~ p, .user_content h2 ~ hr {
+    padding-left: 2%;
+    padding-right: 2%; }
+  .user_content h2 ~ h3, .user_content h2 ~ h4, .user_content h2 ~ h5, .user_content h2 ~ h6 {
+    margin: 1.25rem 1% .5rem 1%; }
+  .user_content h2 ~ ul, .user_content h2 ~ ol, .user_content h2 ~ .div-content-box {
+    margin-right: 2%;
+    margin-left: 2%; }
+  .user_content h3 ~ p {
+    padding-left: 1.5%;
+    padding-rigth: 1.5%; }
+  .user_content h2 {
+    color: #fff;
+    background: #003a63;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: .5rem 1%;
+    margin: 0 0 0.5rem 0; }
+    .user_content h2 .span-subtitle {
+      font-size: 1.5rem; }
+  .user_content h3 {
+    color: #2D3B45;
+    background: #e6e7e9;
+    font-weight: bold;
+    font-size: 1.25rem;
+    padding: .5rem 1%;
+    margin: 0 0 0.5rem 0; }
+  .user_content h3.support, .user_content h2.support {
+    color: #fff;
+    background: #00ac18;
+    font-weight: bold;
+    font-size: 1.25rem;
+    padding: .5rem 1%;
+    margin: 1rem 1% 0.5rem 1%; }
+  .user_content h4 {
+    font-weight: bold; }
+  .user_content .div-content-box {
+    background: #f5f5f5;
+    padding: 1rem 2%;
+    margin: 1rem 0;
+    border: solid 1px #C7CDD1; }
+    .user_content .div-content-box h3 {
+      background: #fff; }
+  .user_content .div-video-container {
+    background: #f5f5f5;
+    padding: .25rem 2%;
+    margin-bottom: .5rem; }
+    .user_content .div-video-container h1 ~ p, .user_content .div-video-container h2 ~ p, .user_content .div-video-container h3 ~ p, .user_content .div-video-container h4 ~ p, .user_content .div-video-container h5 ~ p, .user_content .div-video-container h6 ~ p {
+      margin: .25rem .5%;
+      padding: 0; }
+    .user_content .div-video-container p {
+      margin: .25rem .5%; }
+    .user_content .div-video-container h1, .user_content .div-video-container h2, .user_content .div-video-container h3, .user_content .div-video-container h4, .user_content .div-video-container h5, .user_content .div-video-container h6 {
+      background: none;
+      color: #2D3B45;
+      margin: 0;
+      padding: .5rem 0; }
+    .user_content .div-video-container .div-video-iframe-container {
+      margin: 0 auto;
+      width: 100%;
+      height: 0;
+      padding-bottom: 56.25%;
+      position: relative; }
+    .user_content .div-video-container iframe {
+      margin: 0 auto;
+      padding: 0;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      position: absolute; }
+  .user_content .item-group h2 {
+    padding: 0; }
+  .user_content .item-group a.ig-header-title {
+    background: #003a63;
+    color: #fff;
+    padding: .5rem 1%;
+    display: block;
+    text-decoration: none; }
+  .user_content .item-group a.ig-header-title:hover {
+    text-decoration: underline; }
+  .user_content .item-group a:focus {
+    text-decoration: underline; }
+  .user_content hr {
+    border-top: solid 1px #C7CDD1; }
+  .user_content .a-support-button {
+    width: 255px;
+    margin: .5rem .25rem;
+    font-size: 1rem; }
+  .user_content .span-icon-text-container {
+    white-space: nowrap; }
+  .user_content .item-group-container {
+    /* normalizes Canvas expanding groups */
+    background: none;
+    border: none;
+    padding-bottom: 1rem; }
+  .user_content .span-id-note {
+    color: #df0000; }
+  .user_content .p-citation {
+    padding-left: 3%;
+    text-indent: -3%; }
+  .user_content .div-citation p {
+    padding-left: 3%;
+    text-indent: -3%; }
+  .user_content .div-citation li {
+    padding-left: 3%;
+    text-indent: -3%;
+    margin-bottom: .75rem; }
+  .user_content .div-citation li:last-child {
+    margin-bottom: 0; }
+  .user_content .div-syllabus .img-logo {
+    display: block;
+    width: 95%;
+    margin: .5rem auto; }
+  .user_content .div-syllabus h3 {
+    background: none;
+    padding: 0; }
+  @media (max-width: 768px) {
+    .user_content .div-syllabus .div-img-container {
+      display: none; } }
+  .user_content .div-syllabus .div-header .grid-row, .user_content .div-syllabus .div-header .row {
+    margin: .25rem 0; }
+  .user_content .div-syllabus .div-header p, .user_content .div-syllabus .div-header h3 {
+    line-height: 1.5rem; }
+  .user_content .div-syllabus .div-header .div-header-content {
+    padding: 0; }
+    .user_content .div-syllabus .div-header .div-header-content p:last-child {
+      margin-bottom: 0; }
+  .user_content .div-syllabus .div-header .div-header-content:nth-child(odd) {
+    background: #003a63; }
+  .user_content .div-syllabus .div-header .div-header-content:nth-child(even) {
+    background: #f5f5f5; }
+  .user_content .div-syllabus .div-header h3 {
+    color: #fff;
+    width: 100%;
+    padding: .5rem 2%;
+    margin: 0; }
+  .user_content .div-syllabus .div-header .div-header-info {
+    padding: .5rem 2%; }
+  .user_content .div-syllabus .div-navigation {
+    background: #f5f5f5;
+    font-size: 1.2rem;
+    text-align: center;
+    padding: .5rem; }
+    .user_content .div-syllabus .div-navigation ul {
+      list-style: none;
+      margin-left: 0; }
+    .user_content .div-syllabus .div-navigation li {
+      display: inline-block;
+      border-right: solid 2px grey;
+      padding: 0 12px;
+      margin-top: 5px; }
+    .user_content .div-syllabus .div-navigation li:last-child {
+      border: none; }
+  .user_content .div-syllabus .p-top-link {
+    clear: both;
+    text-align: right; }
+  .user_content .div-syllabus .div-readings .grid-row {
+    margin: .5rem 2%; }
+  .user_content .div-syllabus .div-readings img {
+    width: 100%;
+    margin: 0 auto; }
+  .user_content .div-syllabus .div-requirements .grid-row {
+    margin: .5rem 2%; }
+  .user_content .div-syllabus .div-requirements img {
+    background: #003a63;
+    padding: 10px;
+    width: 90%;
+    max-width: 150px;
+    display: block;
+    margin: 0 auto; }
+  .user_content .div-syllabus .div-readings .div-content-box, .user_content .div-syllabus .div-requirements .div-content-box {
+    border: none;
+    margin: 0; }
+  .user_content .div-syllabus .div-readings .div-img-container, .user_content .div-syllabus .div-requirements .div-img-container {
+    width: 100%; }
+  .user_content .div-syllabus .table-assignment-weight, .user_content .div-syllabus .table-grade-scale {
+    margin-top: 1.5rem; }
+    .user_content .div-syllabus .table-assignment-weight caption, .user_content .div-syllabus .table-grade-scale caption {
+      text-align: center;
+      padding: 0 0 .5rem 0;
+      color: #003a63;
+      border-bottom: 2px solid #003a63; }
+    .user_content .div-syllabus .table-assignment-weight th, .user_content .div-syllabus .table-grade-scale th {
+      padding: 5px 8px; }
+    .user_content .div-syllabus .table-assignment-weight tr, .user_content .div-syllabus .table-grade-scale tr {
+      border-bottom: solid #fff 2px; }
+      .user_content .div-syllabus .table-assignment-weight tr td:first-child, .user_content .div-syllabus .table-grade-scale tr td:first-child {
+        background: #f5f5f5;
+        padding: 10px 8px;
+        font-weight: bold; }
+      .user_content .div-syllabus .table-assignment-weight tr td:nth-child(2n), .user_content .div-syllabus .table-grade-scale tr td:nth-child(2n) {
+        background: #003a63;
+        padding: 10px;
+        font-weight: bold;
+        color: #fff; }
+  .user_content .div-syllabus .table-syllabus-schedule {
+    margin: 0; }
+    .user_content .div-syllabus .table-syllabus-schedule li {
+      margin-bottom: .25rem; }
+    .user_content .div-syllabus .table-syllabus-schedule tr:first-child {
+      background: #003a63;
+      color: #fff; }
+    .user_content .div-syllabus .table-syllabus-schedule th {
+      text-align: center; }
+    .user_content .div-syllabus .table-syllabus-schedule .th-module-week {
+      width: 10%; }
+    .user_content .div-syllabus .table-syllabus-schedule .th-topics {
+      width: 15%; }
+    .user_content .div-syllabus .table-syllabus-schedule .th-readings {
+      width: 50%; }
+    .user_content .div-syllabus .table-syllabus-schedule .th-assignments {
+      width: 25%; }
+    .user_content .div-syllabus .table-syllabus-schedule td {
+      vertical-align: top;
+      padding: 5px 10px; }
+  .user_content .div-homepage .container {
+    padding: 0;
+    border-bottom: solid 30px #003a63; }
+  .user_content .div-homepage h2 {
+    margin: 0; }
+  .user_content .div-homepage .div-nav-container {
+    margin: 0; }
+  .user_content .div-homepage .div-button-container {
+    padding: .5rem 1% 0 1%;
+    margin: 0; }
+  .user_content .div-homepage .Button {
+    text-align: left;
+    width: 100%;
+    height: 48px;
+    padding: 0 2%;
+    margin: 0;
+    font-size: 1.25rem;
+    white-space: pre-wrap; }
+  .user_content .div-homepage .div-content-box {
+    margin: .5rem 0;
+    padding: .5rem 2%;
+    border: solid 1px #C7CDD1; }
+  @media (max-width: 768px) {
+    .user_content .div-homepage .Button {
+      font-size: 1rem; } }
+  .user_content .div-module-overview, .user_content .div-getting-started {
+    border-top: 1rem solid #003a63;
+    border-bottom: 1.5rem solid #003a63;
+    padding: 1rem 2% .5rem 2%;
+    font-size: 1.2em; }
+    .user_content .div-module-overview .div-img-container, .user_content .div-getting-started .div-img-container {
+      display: inline-block;
+      margin: 1rem 1% 1rem 2%;
+      width: 23%;
+      float: right;
+      max-width: 200px;
+      -webkit-filter: drop-shadow(2px 2px 0 #003a63) drop-shadow(2px -2px 0 #003a63) drop-shadow(-2px 2px 0 #003a63) drop-shadow(-2px -2px 0 #003a63);
+      filter: drop-shadow(2px 2px 0 #003a63) drop-shadow(2px -2px 0 #003a63) drop-shadow(-2px 2px 0 #003a63) drop-shadow(-2px -2px 0 #003a63); }
+    .user_content .div-module-overview #circle, .user_content .div-getting-started #circle {
+      -webkit-clip-path: circle(50% at 50% 50%);
+      clip-path: circle(50% at 50% 50%);
+      width: 100%; }
+    .user_content .div-module-overview p, .user_content .div-module-overview ul, .user_content .div-getting-started p, .user_content .div-getting-started ul {
+      margin: .5rem 0; }
+    .user_content .div-module-overview .div-content-box, .user_content .div-getting-started .div-content-box {
+      margin: 0 0 .5rem 0;
+      border: none; }
+      .user_content .div-module-overview .div-content-box h2, .user_content .div-getting-started .div-content-box h2 {
+        color: #2D3B45;
+        background: none; }
+    .user_content .div-module-overview h3, .user_content .div-getting-started h3 {
+      background: #f5f5f5; }
+    @media (max-width: 768px) {
+      .user_content .div-module-overview .div-img-container, .user_content .div-getting-started .div-img-container {
+        display: none; } }
+  .user_content .div-getting-acquainted {
+    background: #f5f5f5;
+    border: solid 1px #C7CDD1;
+    padding: 1rem 2%;
+    margin: 20px 2%;
+    /*For testing. Consider removing for production*/ }
+    .user_content .div-getting-acquainted h3 {
+      background: #003a63;
+      color: #fff; }
+    .user_content .div-getting-acquainted .element_toggler {
+      color: #fff; }
+    .user_content .div-getting-acquainted .row ul, .user_content .div-getting-acquainted .grid-row ul {
+      padding-left: 20px; }
+    @media (max-width: 1200px) {
+      .user_content .div-getting-acquainted .row .col-lg-6:nth-child(2n), .user_content .div-getting-acquainted .grid-row .col-lg-6:nth-child(2n) {
+        margin-top: 2rem; } }
+  .user_content .div-resources .div-reading-list-container {
+    background: #f5f5f5;
+    margin: .5rem 2%;
+    padding: .5rem 1%; }
+    .user_content .div-resources .div-reading-list-container .div-icon-container {
+      display: inline-block;
+      width: 18%;
+      max-width: 120px;
+      vertical-align: top; }
+      .user_content .div-resources .div-reading-list-container .div-icon-container img {
+        display: inline-block;
+        width: 100%; }
+    .user_content .div-resources .div-reading-list-container .div-reading-list {
+      display: inline-block;
+      width: 80%; }
+    @media (max-width: 768px) {
+      .user_content .div-resources .div-reading-list-container .div-icon-container {
+        display: none; }
+      .user_content .div-resources .div-reading-list-container .div-reading-list {
+        width: 98%; } }
+  .user_content .div-about-the-faculty img {
+    width: 100%;
+    max-width: 250px;
+    display: block; }
+  .user_content .div-technology-and-support h2, .user_content .div-working-in-your-group h2, .user_content .div-group-presentation h2, .user_content .div-group-tech-check h2, .user_content .div-class-session-info h2 {
+    margin: 0 0 1rem 0; }
+  .user_content .div-technology-and-support h2 ~ h3, .user_content .div-technology-and-support h2 ~ h4, .user_content .div-technology-and-support h2 ~ h5, .user_content .div-technology-and-support h2 ~ h6, .user_content .div-working-in-your-group h2 ~ h3, .user_content .div-working-in-your-group h2 ~ h4, .user_content .div-working-in-your-group h2 ~ h5, .user_content .div-working-in-your-group h2 ~ h6, .user_content .div-group-presentation h2 ~ h3, .user_content .div-group-presentation h2 ~ h4, .user_content .div-group-presentation h2 ~ h5, .user_content .div-group-presentation h2 ~ h6, .user_content .div-group-tech-check h2 ~ h3, .user_content .div-group-tech-check h2 ~ h4, .user_content .div-group-tech-check h2 ~ h5, .user_content .div-group-tech-check h2 ~ h6, .user_content .div-class-session-info h2 ~ h3, .user_content .div-class-session-info h2 ~ h4, .user_content .div-class-session-info h2 ~ h5, .user_content .div-class-session-info h2 ~ h6 {
+    margin: 1rem 0 .5rem 0; }
+  .user_content .div-technology-and-support .support ~ ul, .user_content .div-working-in-your-group .support ~ ul, .user_content .div-group-presentation .support ~ ul, .user_content .div-group-tech-check .support ~ ul, .user_content .div-class-session-info .support ~ ul {
+    margin: 0; }
+  .user_content .div-technology-and-support img, .user_content .div-working-in-your-group img, .user_content .div-group-presentation img, .user_content .div-group-tech-check img, .user_content .div-class-session-info img {
+    display: inline-block;
+    vertical-align: top;
+    width: 16%;
+    margin: 0 2%; }
+  .user_content .div-technology-and-support .div-tech-details, .user_content .div-working-in-your-group .div-tech-details, .user_content .div-group-presentation .div-tech-details, .user_content .div-group-tech-check .div-tech-details, .user_content .div-class-session-info .div-tech-details {
+    display: inline-block;
+    width: 80%; }
+  .user_content .div-technology-and-support .div-dates, .user_content .div-working-in-your-group .div-dates, .user_content .div-group-presentation .div-dates, .user_content .div-group-tech-check .div-dates, .user_content .div-class-session-info .div-dates {
+    font-weight: bold; }
+  .user_content .div-technology-and-support ul, .user_content .div-working-in-your-group ul, .user_content .div-group-presentation ul, .user_content .div-group-tech-check ul, .user_content .div-class-session-info ul {
+    margin-top: .5rem; }
+  @media (max-width: 768px) {
+    .user_content .div-technology-and-support img, .user_content .div-working-in-your-group img, .user_content .div-group-presentation img, .user_content .div-group-tech-check img, .user_content .div-class-session-info img {
+      display: none; }
+    .user_content .div-technology-and-support .div-tech-details, .user_content .div-working-in-your-group .div-tech-details, .user_content .div-group-presentation .div-tech-details, .user_content .div-group-tech-check .div-tech-details, .user_content .div-class-session-info .div-tech-details {
+      display: inline-block;
+      width: 100%;
+      margin: 0%; } }
+  .user_content .div-class-session-info .div-content-box p {
+    font-size: 1.25rem; }
+  .user_content .div-class-session-storyboard table {
+    border: 1px solid black; }
+    .user_content .div-class-session-storyboard table li {
+      margin-bottom: .25rem; }
+  .user_content .div-class-session-storyboard td, .user_content .div-class-session-storyboard th {
+    border: 1px solid black;
+    vertical-align: top;
+    padding: 5px 10px; }
+  .user_content .div-panopto-instructions h3, .user_content .div-panopto-instructions h2, .user_content .div-panopto-instructions hr {
+    clear: both; }
+  .user_content .div-panopto-instructions .grid-row {
+    margin: 1rem 0; }
+  .user_content .div-panopto-instructions .img-demo {
+    background: #003a63;
+    margin: 0 auto;
+    padding: 2px;
+    width: 100%; }
+  .user_content .div-panopto-instructions .div-inset {
+    background: #fff;
+    padding: .25rem 1%; }
+    .user_content .div-panopto-instructions .div-inset h4 {
+      background: #e6e7e9;
+      color: #2D3B45;
+      padding: .25rem;
+      font-size: 1.25rem;
+      font-weight: bold;
+      margin-bottom: .25rem; }
+
+/*# sourceMappingURL=sps-canvas-stylesheet.css.map */

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35dc440b-61ab-4511-94c1-b0bed4a36ea8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sps-canvas-stylesheet.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/sps-canvas-stylesheet.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="278" column="49" lean-forward="true" selection-start-line="278" selection-start-column="49" selection-end-line="278" selection-end-column="49" />
+              <folding>
+                <element signature="e#6240#6824#0" expanded="false" />
+                <element signature="e#6898#7982#0" expanded="false" />
+                <element signature="e#8051#8478#0" expanded="false" />
+                <element signature="e#8512#9079#0" expanded="false" />
+                <element signature="e#9129#9214#0" expanded="false" />
+                <element signature="e#9372#9924#0" expanded="false" />
+                <element signature="e#9997#10061#0" expanded="false" />
+                <element signature="e#10125#10312#0" expanded="false" />
+                <element signature="e#10368#10823#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panopto-instructions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panopto-instructions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7072">
+              <caret line="416" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="426" selection-end-column="7" />
+              <folding>
+                <element signature="e#3323#3330#0" expanded="true" />
+                <element signature="e#5077#5084#0" expanded="true" />
+                <element signature="e#5122#5129#0" expanded="true" />
+                <element signature="e#10957#10964#0" expanded="true" />
+                <element signature="e#17015#17022#0" expanded="true" />
+                <element signature="e#18768#18775#0" expanded="true" />
+                <element signature="e#18813#18820#0" expanded="true" />
+                <element signature="e#24747#24754#0" expanded="true" />
+                <element signature="e#39427#39434#0" expanded="true" />
+                <element signature="e#44214#44221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="syllabus-reference.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/syllabus-reference.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5525">
+              <caret line="325" column="35" lean-forward="false" selection-start-line="325" selection-start-column="24" selection-end-line="325" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;span&gt;</find>
+      <find>tech-details</find>
+      <find>tech-de</find>
+      <find>a id</find>
+      <find>div-content-box</find>
+      <find>div-descript</find>
+      <find>blockq</find>
+      <find>detailed</find>
+      <find>tech-det</find>
+      <find>&lt;td style=&quot;padding: 5px; border: 1px solid gray;&quot; colspan=&quot;3&quot;&gt;</find>
+      <find>class-session-st</find>
+      <find>&lt;strong&gt;</find>
+      <find>td</find>
+      <find>333333</find>
+      <find>h2</find>
+      <find>gett</find>
+      <find>col-xs-3 col-lg-2 off-lg-2</find>
+      <find>container</find>
+      <find>&lt;div class=&quot;col-xs-12 col-lg-2&quot;&gt;&lt;/div&gt;</find>
+      <find>&lt;h3 style=&quot;background: #fff; padding: 0px 5px; color: #333; font-size: 1.45em; font-weight: bold; margin-bottom: 5px;&quot;&gt;</find>
+      <find>&lt;div style=&quot;width: 98%; height: 100%;&quot;&gt;&lt;img</find>
+      <find>grid-row</find>
+      <find>aroun</find>
+      <find>&quot;grid-row around-xs&quot;</find>
+      <find>style=</find>
+      <find>&lt;h4 style=&quot;background: #e6e7e9; padding: 0 5px; color: #000; font-size: 1.25em; font-weight: bold; margin-bottom: 5px;&quot;&gt;</find>
+      <find>cond_group_1</find>
+      <find>cond_group_2</find>
+      <find>cond_group_3</find>
+      <find>cond_group_4</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>class=&quot;grid-row row&quot;</replace>
+      <replace>class=&quot;p-citation&quot;</replace>
+      <replace>&lt;/li&gt;</replace>
+      <replace>subtitle&lt;/em&gt;.</replace>
+      <replace>citation</replace>
+      <replace>max-width: 250px</replace>
+      <replace>&lt;hr /&gt;</replace>
+      <replace />
+      <replace>&lt;div style=&quot;display: inline-block; width: 80%;&quot;&gt;</replace>
+      <replace>&lt;h2&gt;</replace>
+      <replace>&gt;&lt;div class=&quot;div-tech-details&quot;&gt;</replace>
+      <replace>&lt;div class=&quot;col-xs-12 col-lg-6&quot; style=&quot;background-color: #f7f7f7;&quot;&gt;</replace>
+      <replace>&lt;div style=&quot;display: block; background-color: #f7f7f7; margin: 5px 1%; clear: both;&quot;&gt;</replace>
+      <replace>&lt;div style=&quot;display: inline-block; background-color: #f7f7f7; width: 94%; padding: 5px 1%; margin: 5px 1%; clear: both;&quot;&gt;</replace>
+      <replace>&lt;div</replace>
+      <replace>&lt;span class=&quot;span-id-note&quot;&gt;</replace>
+      <replace>&lt;p&gt;</replace>
+      <replace>div-content-box</replace>
+      <replace>&lt;td colspan=&quot;3&quot;&gt;</replace>
+      <replace>333</replace>
+      <replace>col-xs-3 col-lg-2 off-lg-2 offset-lg-2</replace>
+      <replace>&lt;div class=&quot;col-xs-12 col-lg-2&quot;&gt;space placeholder&lt;/div&gt;</replace>
+      <replace>&lt;div class=&quot;col-xs-12 col-lg-2&quot;&gt;spacing placeholder&lt;/div&gt;</replace>
+      <replace>&lt;h3&gt;</replace>
+      <replace>&lt;div class=&quot;div-img-container&quot;&gt;&lt;img</replace>
+      <replace>grid-row row</replace>
+      <replace>&quot;grid-row row around-xs&quot;</replace>
+      <replace>&lt;h4&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/sps-cavas-stylesheet.css" />
+        <option value="$PROJECT_DIR$/css/module-overview.html" />
+        <option value="$PROJECT_DIR$/Syllabus (REFERENCE PAGE).html" />
+        <option value="$PROJECT_DIR$/homepage-alternate1.html" />
+        <option value="$PROJECT_DIR$/css/Getting Acquainted.html" />
+        <option value="$PROJECT_DIR$/css/Resources.html" />
+        <option value="$PROJECT_DIR$/css/asynchronous-activity.html" />
+        <option value="$PROJECT_DIR$/css/sps-canvas-stylesheet.css" />
+        <option value="$PROJECT_DIR$/technology-and-suppot.html" />
+        <option value="$PROJECT_DIR$/group-presentation-tech-check.html" />
+        <option value="$PROJECT_DIR$/Matt's Fucked Up Syllabus.html" />
+        <option value="$PROJECT_DIR$/live-session-storyboard.html" />
+        <option value="$PROJECT_DIR$/about-the-faculty.html" />
+        <option value="$PROJECT_DIR$/asynchronous-activity.html" />
+        <option value="$PROJECT_DIR$/class-session.html" />
+        <option value="$PROJECT_DIR$/class-session-information.html" />
+        <option value="$PROJECT_DIR$/course-homepage.html" />
+        <option value="$PROJECT_DIR$/discussion-activity.html" />
+        <option value="$PROJECT_DIR$/exam-preparation.html" />
+        <option value="$PROJECT_DIR$/getting-started.html" />
+        <option value="$PROJECT_DIR$/group-presentation-assignment.html" />
+        <option value="$PROJECT_DIR$/group-presentation-tech-check-bbb.html" />
+        <option value="$PROJECT_DIR$/group-presentation-tech-check-zoom.html" />
+        <option value="$PROJECT_DIR$/module-overview.html" />
+        <option value="$PROJECT_DIR$/resources.html" />
+        <option value="$PROJECT_DIR$/student-success-tips.html" />
+        <option value="$PROJECT_DIR$/technology-and-support.html" />
+        <option value="$PROJECT_DIR$/virtual-office.html" />
+        <option value="$PROJECT_DIR$/working-in-your-group.html" />
+        <option value="$PROJECT_DIR$/class-session-storyboard.html" />
+        <option value="$PROJECT_DIR$/getting-acquainted.html" />
+        <option value="$PROJECT_DIR$/getting-acquainted-copy.html" />
+        <option value="$PROJECT_DIR$/scratch-panopto-instructions.html" />
+        <option value="$PROJECT_DIR$/panopto-instructions.html" />
+        <option value="$PROJECT_DIR$/syllabus-reference.html" />
+        <option value="$PROJECT_DIR$/css/sps-canvas-stylesheet.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="214" />
+    <option name="y" value="19" />
+    <option name="width" value="1477" />
+    <option name="height" value="935" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Canvas Templates" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Canvas Templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Canvas Templates" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Canvas Templates" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Canvas Templates" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Canvas Templates" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-canvas-stylesheet.scss" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../glossary" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jls2245\Desktop\Canvas Templates" />
+      <recent name="C:\Users\jls2245\Desktop\Canvas Templates\" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jls2245\Desktop\Canvas Templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35dc440b-61ab-4511-94c1-b0bed4a36ea8" name="Default" comment="" />
+      <created>1499360467395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499360467395</updated>
+      <workItem from="1499360468750" duration="9529000" />
+      <workItem from="1499443105261" duration="3359000" />
+      <workItem from="1499461918721" duration="1934000" />
+      <workItem from="1500663789571" duration="8731000" />
+      <workItem from="1500905659205" duration="6595000" />
+      <workItem from="1501091743365" duration="5717000" />
+      <workItem from="1501176638353" duration="8869000" />
+      <workItem from="1501250717724" duration="6029000" />
+      <workItem from="1501261245029" duration="6422000" />
+      <workItem from="1501614905911" duration="1906000" />
+      <workItem from="1501684195584" duration="15662000" />
+      <workItem from="1501770762716" duration="15123000" />
+      <workItem from="1501858264046" duration="20045000" />
+      <workItem from="1502117332983" duration="609000" />
+      <workItem from="1502118394976" duration="14328000" />
+      <workItem from="1502208886802" duration="17146000" />
+      <workItem from="1502289625788" duration="19914000" />
+      <workItem from="1502374919308" duration="4350000" />
+      <workItem from="1502379317335" duration="8313000" />
+      <workItem from="1502462057260" duration="12820000" />
+      <workItem from="1502720981518" duration="1828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="189229000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="214" y="19" width="1477" height="935" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13620807" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/module-overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/module-overview.html" />
+    <entry file="file://$PROJECT_DIR$/homepage-alternate1.html" />
+    <entry file="file://$PROJECT_DIR$/css/sps-canvas-stylesheet.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#6240#6824#0" expanded="false" />
+            <element signature="e#6898#7982#0" expanded="false" />
+            <element signature="e#8051#8478#0" expanded="false" />
+            <element signature="e#8512#9079#0" expanded="false" />
+            <element signature="e#9129#9214#0" expanded="false" />
+            <element signature="e#9372#9924#0" expanded="false" />
+            <element signature="e#9997#10061#0" expanded="false" />
+            <element signature="e#10125#10312#0" expanded="false" />
+            <element signature="e#10368#10823#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/module-overview.html" />
+    <entry file="file://$PROJECT_DIR$/css/sps-canvas-stylesheet.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#6240#6824#0" expanded="false" />
+            <element signature="e#6898#7982#0" expanded="false" />
+            <element signature="e#8051#8478#0" expanded="false" />
+            <element signature="e#8512#9079#0" expanded="false" />
+            <element signature="e#9129#9214#0" expanded="false" />
+            <element signature="e#9372#9924#0" expanded="false" />
+            <element signature="e#9997#10061#0" expanded="false" />
+            <element signature="e#10125#10312#0" expanded="false" />
+            <element signature="e#10368#10823#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sps-canvas-stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sps-cavas-stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/css/module-overview.html" />
+    <entry file="file://$PROJECT_DIR$/css/sps-cavas-stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/css/sps-cavas-stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/css/test.html" />
+    <entry file="file://$PROJECT_DIR$/css/module-overview.html" />
+    <entry file="file://$PROJECT_DIR$/homepage-alternate1.html" />
+    <entry file="file://$PROJECT_DIR$/Syllabus (REFERENCE PAGE).html" />
+    <entry file="file://$PROJECT_DIR$/Class Session.html" />
+    <entry file="file://$PROJECT_DIR$/Course Homepage.html" />
+    <entry file="file://$PROJECT_DIR$/css/Getting Acquainted.html" />
+    <entry file="file://$PROJECT_DIR$/Getting Acquainted.html" />
+    <entry file="file://$PROJECT_DIR$/css/sps-canvas-stylesheet.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group-presentation-tech-check.html" />
+    <entry file="file://$PROJECT_DIR$/Matt's Fucked Up Syllabus.html" />
+    <entry file="file://$PROJECT_DIR$/technology-and-suppot.html" />
+    <entry file="file://$PROJECT_DIR$/syllabus.html" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/live-session-storyboard.html" />
+    <entry file="file://$PROJECT_DIR$/css/sps-canvas-stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="326" column="208" lean-forward="false" selection-start-line="326" selection-start-column="208" selection-end-line="326" selection-end-column="208" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-the-faculty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asynchronous-activity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-session.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discussion-activity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="66" lean-forward="false" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam-preparation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getting-started.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group-presentation-assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group-presentation-tech-check-bbb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group-presentation-tech-check-zoom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student-success-tips.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technology-and-support.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/virtual-office.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working-in-your-group.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-session-storyboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getting-acquainted-copy.html" />
+    <entry file="file://$PROJECT_DIR$/getting-acquainted.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-session-information.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch-panopto-instructions.html" />
+    <entry file="file://$PROJECT_DIR$/panopto-instructions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7072">
+          <caret line="416" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="426" selection-end-column="7" />
+          <folding>
+            <element signature="e#3323#3330#0" expanded="true" />
+            <element signature="e#5077#5084#0" expanded="true" />
+            <element signature="e#5122#5129#0" expanded="true" />
+            <element signature="e#10957#10964#0" expanded="true" />
+            <element signature="e#17015#17022#0" expanded="true" />
+            <element signature="e#18768#18775#0" expanded="true" />
+            <element signature="e#18813#18820#0" expanded="true" />
+            <element signature="e#24747#24754#0" expanded="true" />
+            <element signature="e#39427#39434#0" expanded="true" />
+            <element signature="e#44214#44221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllabus-reference.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5525">
+          <caret line="325" column="35" lean-forward="false" selection-start-line="325" selection-start-column="24" selection-end-line="325" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sps-canvas-stylesheet.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="278" column="49" lean-forward="true" selection-start-line="278" selection-start-column="49" selection-end-line="278" selection-end-column="49" />
+          <folding>
+            <element signature="e#6240#6824#0" expanded="false" />
+            <element signature="e#6898#7982#0" expanded="false" />
+            <element signature="e#8051#8478#0" expanded="false" />
+            <element signature="e#8512#9079#0" expanded="false" />
+            <element signature="e#9129#9214#0" expanded="false" />
+            <element signature="e#9372#9924#0" expanded="false" />
+            <element signature="e#9997#10061#0" expanded="false" />
+            <element signature="e#10125#10312#0" expanded="false" />
+            <element signature="e#10368#10823#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
